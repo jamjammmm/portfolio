@@ -37,5 +37,6 @@ def multiplicationquiz():
             print(" ")
     #End of Quiz
     print("You got " + str(correct) + " out of the " + str(questions) + " questions right!")
+    
 #Main
 multiplicationquiz()
