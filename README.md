@@ -1,5 +1,5 @@
 # portfolio
-a collection of all projects i've done at jones college prep in my junior year
+a collection of some projects i've done at jones college prep in my junior year
 
 Artist Generator Project: This project generates an artist based on the user's input. Each choice the user makes leads to a different pathway/artist. This program demonstrates how to use conditional statements to make an interactive and fun minigame.
 
